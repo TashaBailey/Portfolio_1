@@ -1,0 +1,56 @@
+/*Navigation bar*/
+nav {
+    background-color: #f0f0f0;
+}
+
+/*Body Layout*/
+
+section, address {
+    padding: 2rem;
+}
+
+h1, h2 {
+    padding: 2rem;
+}
+
+#Contact{
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+section {
+    margin-top: 5px;
+}
+
+/*Card layout*/
+.section-cars {
+    max-width: 80%;
+    margin: auto;
+}
+
+.vintageImage {
+    border-radius: 10%;
+}
+
+/*Form*/
+
+form {
+    background-color: #f0f0f0;
+    padding: 1rem;
+    text-align: center;
+}
+
+/*Link align*/
+
+#backTop {
+    float: right;
+}
+
+/*Footer*/
+
+footer {
+    text-align: center;
+}
